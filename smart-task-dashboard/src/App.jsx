@@ -34,7 +34,7 @@ function App() {
   return (
     <div style={{ padding: 20 }}>
       <h1>Smart Task Dashboard</h1>
-      <h2>useState + useEffect + useRef</h2>
+      <h2>useState + useEffect + useRef + </h2>
 
       <p>Count: {count}</p>
       <p>Render count: {renderCountRef.current}</p>
